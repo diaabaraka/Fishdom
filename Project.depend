@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1371609033 source:e:\study\2nd semester\data structure\c-projects\project\main.cpp
+	<iostream>
+	"Ocean.h"
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"RunLengthEncoding.h"
+
+1371595976 e:\study\2nd semester\data structure\c-projects\project\ocean.h
+	"Cell.h"
+
+1371604888 source:e:\study\2nd semester\data structure\c-projects\project\runlengthencoding.cpp
+	"RunLengthEncoding.h"
+	"Ocean.h"
+	"Cell.h"
+	"LinkedListNode.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1371406859 e:\study\2nd semester\data structure\c-projects\project\runlengthencoding.h
+	"MyLinkedList.h"
+	"Ocean.h"
+
+1371608864 source:e:\study\2nd semester\data structure\c-projects\project\ocean.cpp
+	"Ocean.h"
+	<iostream>
+	<stdlib.h>
+
+1371576177 source:e:\study\2nd semester\data structure\c-projects\project\cell.cpp
+	"Cell.h"
+
+1371576177 e:\study\2nd semester\data structure\c-projects\project\cell.h
+
+1371499662 source:e:\study\2nd semester\data structure\c-projects\project\linkedlistnode.cpp
+	"LinkedListNode.h"
+	<iostream>
+
+1371499662 e:\study\2nd semester\data structure\c-projects\project\linkedlistnode.h
+
+1371602167 source:e:\study\2nd semester\data structure\c-projects\project\mylinkedlist.cpp
+	"MyLinkedList.h"
+	<iostream>
+
+1371602167 e:\study\2nd semester\data structure\c-projects\project\mylinkedlist.h
+	"LinkedListNode.h"
+
